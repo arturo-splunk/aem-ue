@@ -2,7 +2,8 @@
   "mappings": [
     "/content/wkdn-xwalk/:/",
     "/content/wkdn-xwalk/configuration:/.helix/config.json",
-    "/content/wkdn-xwalk/metadata:/metadata.json"
+    "/content/wkdn-xwalk/metadata:/metadata.json",
+    "/content/wkdn-xwalk/redirects:/redirects.json"
   ],
   "includes": [
     "/content/wkdn-xwalk/"
